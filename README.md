@@ -42,13 +42,13 @@ Java Concurrent Programming
 	
 	* 1.3	Thread Communication:
 	
-			* Semaphore		信号量
+		* Semaphore		信号量
 			
-			* CountDownLatch	倒数同步
-			
-			* Exchanger		线程数据交换
-			
-			* CyclicBarrier 	多路线程同步等待
+		* CountDownLatch	倒数同步
+		
+		* Exchanger		线程数据交换
+		
+		* CyclicBarrier 	多路线程同步等待
 			
 * 2.同步源语
 
@@ -76,17 +76,17 @@ Java Concurrent Programming
 		
 	* 4.2	BlockingQueue
 	
-			* Array
+		* Array
 			
-			* Linked Queue|Deque
+		* Linked Queue|Deque
 			
-			* Transfer 试探
+		* Transfer 试探
 			
-			* Delay	延迟
+		* Delay	延迟
 			
-			* Synchronous 无元素
+		* Synchronous 无元素
 			
-			* Priority 优先
+		* Priority 优先
 			
 	* 4.3
 	
