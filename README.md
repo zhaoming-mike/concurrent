@@ -4,6 +4,7 @@ Java Concurrent Programming
 并发编程
 
 # Java 4.0
+
 * 1.原子操作		synchronized
 
 * 2.锁			synchronized
@@ -25,17 +26,17 @@ Java Concurrent Programming
 * 1.线程
 	* 1.1 State
 	
-			* new
+		* new
 			
-			* runnable
+		* runnable
 			
-			* wait
+		* wait
+		
+		* time_wait
+		
+		* blocked
 			
-			* time_wait
-			
-			* blocked
-			
-			* terminated
+		* terminated
 			
 	* 1.2	Interrupt 中断
 	
