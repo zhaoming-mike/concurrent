@@ -94,7 +94,8 @@ Java Concurrent Programming
 * 7.其它知识
 	* happens-before
 
-		* Program order rule. Each action in a thread happens-before every action in that thread that comes later in the program order. (程序次序规则：在一个单独的线程中，按照程序代码的执行流顺序，(时间上)先执行的操作happen—before(时间上)后执行的操作。)
+		* Program order rule. Each action in a thread happens-before every action in that thread that comes later in the program order. 
+		(**程序次序规则**：在一个单独的线程中，按照程序代码的执行流顺序，(时间上)先执行的操作happen—before(时间上)后执行的操作。)
 
 		* Monitor lock rule. An unlock on a monitor lock happens-before every subsequent lock on that same monitor lock.(管理锁定规则：一个unlock操作happen—before后面(时间上的先后顺序，下同)对同一个锁的lock操作。)
 
