@@ -46,6 +46,7 @@ Java Concurrent Programming
 		* CountDownLatch	倒数同步
 		* Exchanger		线程数据交换
 		* CyclicBarrier		多路线程同步等待
+		* Phaser		fork/join同步等待
 			
 * 2.同步源语
 
